@@ -1,0 +1,11 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "while sleep 1; do date; done"
+  },
+  "author": "",
+  "license": "ISC"
+}
